@@ -1,0 +1,11 @@
+var isPalindrome = function(x) {
+    let xpal = parseInt(Math.abs(x).toString().split('').reverse().join(''));
+    
+    if (xpal == x) {
+        return true;
+    }
+    else {
+        return false;
+    }
+    
+};
