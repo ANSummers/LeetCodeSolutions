@@ -154,17 +154,11 @@ Constraints:
 s contains only the characters ('I', 'V', 'X', 'L', 'C', 'D', 'M').
 It is guaranteed that s is a valid roman numeral in the range [1, 3999].
 
-#Valid Palindrome
+# Valid Palindrome
 
-Easy
+https://leetcode.com/problems/valid-palindrome/
 
-1933
 
-3794
-
-Add to List
-
-Share
 Given a string s, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
 
  
